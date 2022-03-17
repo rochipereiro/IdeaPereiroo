@@ -1,0 +1,36 @@
+main{
+    background-color: rgba(13, 80, 71, 0.61);
+}
+.row1{
+    background-color: rgb(154, 238, 219);
+}
+.row2{
+    background-color: rgb(205, 242, 229);
+
+}.row3{
+    background-color: rgb(206, 230, 240);
+}.row4{
+    background-color: rgb(150, 205, 235);
+}
+.fotos{
+    width: 100% ;
+    align-content: center;
+}
+.titulos{
+    background-color: rgba(119, 136, 153, 0.747);
+}
+.box{
+    margin: 10px;
+    width: max-content;
+    height: max-content;
+    border-radius: 6px;
+    text-size-adjust: 15px;
+    background-color: rgba(119, 136, 153, 0.747);
+    padding: 5px;
+    transition: all 2s ease-in-out;
+    text-align: center;
+
+}
+.box:hover{
+    transform: translateX(200px)
+}
